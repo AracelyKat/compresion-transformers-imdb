@@ -1,0 +1,26 @@
+# Modelos entrenados (pesados)
+models/*
+!models/.gitkeep
+*.bin
+*.pt
+*.safetensors
+
+# Datos descargados y caché
+data/
+.cache/
+hf_cache/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Salidas de codecarbon
+emissions.csv
+.codecarbon.config
+
+# Sistema
+.DS_Store
+Thumbs.db
