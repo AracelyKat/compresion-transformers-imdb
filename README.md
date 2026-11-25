@@ -4,6 +4,8 @@
 **Temática:** Transformers y Modelos de Autoatención (NLP) → *Optimización de Transformers para Recursos Limitados*
 **Modalidad:** Trabajo individual
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AracelyKat/compresion-transformers-imdb/blob/main/notebooks/compresion_transformers_imdb.ipynb)
+
 ---
 
 ## Resumen del proyecto
@@ -33,6 +35,7 @@ energía) y qué se pierde (precisión).
 deep-learning/
 ├── README.md                         ← Este archivo (visión general)
 ├── .gitignore
+├── requirements.txt                  ← Librerías necesarias
 ├── docs/                             ← Planificación y documentación
 │   ├── 01-definicion-del-proyecto.md ← Objetivos, hipótesis, alcance
 │   ├── 02-plan-por-fases.md          ← Fases detalladas con tareas y checklist

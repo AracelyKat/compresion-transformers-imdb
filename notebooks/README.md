@@ -1,6 +1,10 @@
 # Notebooks
 
-**Entregable 1:** `compresion_transformers_imdb.ipynb` (se crea en la Fase 0, en Google Colab).
+**Entregable 1:** `compresion_transformers_imdb.ipynb`
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AracelyKat/compresion-transformers-imdb/blob/main/notebooks/compresion_transformers_imdb.ipynb)
+
+Repositorio privado: la primera vez, Colab pedirá autorizar el acceso a GitHub.
 
 ## Secciones planificadas
 
@@ -13,6 +17,14 @@
 | 4 | Evaluación: calidad, tamaño, latencia, energía, estadística | 4 |
 | 5 | Visualizaciones, mapas de atención, análisis de errores | 5 |
 | 6 | Conclusiones del notebook | 5 |
+
+## Flujo de trabajo por fase
+
+1. Abrir el notebook en Colab con el botón de arriba (GPU T4 activada).
+2. Ejecutar y completar la fase.
+3. *Archivo → Descargar → Descargar .ipynb* y reemplazar este archivo.
+4. Copiar figuras y tablas desde Drive a `../results/`.
+5. Un solo commit: `Fase X: ...`.
 
 ## Convenciones
 
